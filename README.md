@@ -22,13 +22,16 @@ I know there are other "awesome autism" resources out there, and I will be linki
 
 ## :thinking: Concepts
 
-- At the DevOpsDays Austin 2024 conference, I helped organize a couple of "Autism in DevOps" open spaces, and in one of those sessions, I heard from a woman who told us that she was Autistic, and her three childred were also Autistic.  She added that Autism showed up differently in each of them.  She said: "Autism is not a Spectrum.  It is a Spectrum of Spectrums".  That really hit home for me.
+- At the DevOpsDays Austin 2024 conference, I helped organize a couple of "Autism in DevOps" open spaces, and in one of those sessions, I heard from a woman who told us that she was Autistic, and her three children were also Autistic.  She added that Autism showed up differently in each of them.  She said: "Autism is not a Spectrum.  It is a Spectrum of Spectrums".  That really hit home for me.
 - At the Cloud Austin "Dog Days of DevOps 2024" meeting, after I gave my five minute talk on the subject of Autism in DevOps, and asked the audience for what resources they found to be useful, an attendee came up to me afterwards and said that he found "... the most important thing was to meet them at their level, wherever they may be."  That also struck home -- I have unknowingly been doing that for many years during Halloween, for when the little kids come to the door.
 
 ## :tv: Videos
 
 - [@momonthespectrum](http://www.youtube.com/@MomontheSpectrum) -- not only is Taylor Heaton herself Autistic, but she is also a therapist in this space.  She talks about multiple different spectrum behaviours and potential accomodations or ways to work with them.  She also has interviews with other people, such as her own therapist that helped her get to where she is today.  This YouTube channel was the first major resource I found in my journey.
 - [TEDx: Failing at Normal: An ADHD Success Story](https://youtu.be/JiwZQNYlGQI?si=DzTXzVXsoCc1Bvtr) -- Although Jessica McCabe is talking about ADHD, there is a lot of overlap between ADHD and Autism, and many of the things she talks about are equally applicable to both communities.
+- [Neurodiversity and the Essence of DevOps](https://youtu.be/AbKhi8J3Kh8) -- Jeff Sussna gives his perspective on how people on the Autism spectrum actually empathize too much, so much so that they shut down and it looks like they are not able to emphathize.  He then goes into how this can impact DevOps, and makes the argument that the broader approach based on the DevOps principles should instead be called EmpathyOps and could be applied almost anywhere.  Good stuff.
+- [Autism and the Future of Testing](https://youtu.be/mxG6kpYzMhw?si=ZlJnynN0Sn-EoTvn) -- Another talk by Jeff Sussna, this time about how Autism can impact the process of testing.
+- [DevOps & Autism Care](https://youtu.be/t71mfEI9w1Q?si=87uK_Zcs41S9nIPv) -- A talk by Zac Nickens, who wrote the blog article on the same name (see below).
 
 ## :green_book: Books
 

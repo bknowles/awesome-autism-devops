@@ -1,4 +1,4 @@
-# awesome-autism-devops
+# awesome-autism-devops [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 Awesome Autism resources for and from the DevOps Community
 
@@ -23,11 +23,11 @@ I know there are other "awesome autism" resources out there, and I will be linki
 ## :thinking: Concepts
 
 - At the DevOpsDays Austin 2024 conference, I helped organize a couple of "Autism in DevOps" open spaces, and in one of those sessions, I heard from a woman who told us that she was Autistic, and her three childred were also Autistic.  She added that Autism showed up differently in each of them.  She said: "Autism is not a Spectrum.  It is a Spectrum of Spectrums".  That really hit home for me.
-- At the Cloud Austin "Dog Days of DevOps 2024" meeting, after I gave my five minute talk on the subject of Autism in DevOps, and asked the audience for what resources they found to be useful, an attendee came up to me afterwards and said that he found "... the most important thing was to meet them at their level, wherever they may be."
+- At the Cloud Austin "Dog Days of DevOps 2024" meeting, after I gave my five minute talk on the subject of Autism in DevOps, and asked the audience for what resources they found to be useful, an attendee came up to me afterwards and said that he found "... the most important thing was to meet them at their level, wherever they may be."  That also struck home -- I have unknowingly been doing that for many years during Halloween, for when the little kids come to the door.
 
 ## :tv: Videos
 
-- [@momonthespectrum](http://www.youtube.com/@MomontheSpectrum) -- not only is Taylor Heaton herself Autistic, but she is also a therapist in this space, and talks about multiple different spectrum behaviours and potential accomodations or ways to work with them, and also has interviews with other people, such as her own therapist that helped her get to where she is today.  This YouTube channel was the first major resource I found in my journey.
+- [@momonthespectrum](http://www.youtube.com/@MomontheSpectrum) -- not only is Taylor Heaton herself Autistic, but she is also a therapist in this space.  She talks about multiple different spectrum behaviours and potential accomodations or ways to work with them.  She also has interviews with other people, such as her own therapist that helped her get to where she is today.  This YouTube channel was the first major resource I found in my journey.
 - [TEDx: Failing at Normal: An ADHD Success Story](https://youtu.be/JiwZQNYlGQI?si=DzTXzVXsoCc1Bvtr) -- Although Jessica McCabe is talking about ADHD, there is a lot of overlap between ADHD and Autism, and many of the things she talks about are equally applicable to both communities.
 
 ## :green_book: Books
@@ -41,4 +41,7 @@ I know there are other "awesome autism" resources out there, and I will be linki
 
 ## :link: Other Awesome Autism resources
 
-- [Awesome Autism](https://github.com/aspergirl-git/awesome-autism/) -- when I first searched for "Awesome Autism Resources", I didn't find any of the normal "awesome" repos on github.  But then I wasn't searching on Github.  When I repeated that search on github, this was the first repo that was returned.  And I've learned how to do better GitHub Formatted Markup from her example.  So, thank you to @aspergergirl-git!
+- [Awesome Autism](https://github.com/aspergirl-git/awesome-autism/) -- When I first searched for "Awesome Autism Resources", I didn't find any of the normal "awesome" repos on github.  But then I wasn't searching on Github.  When I repeated that search on github, this was the first repo that was returned.  And I've learned how to do better GitHub Formatted Markup from her example.  So, thank you to @aspergergirl-git!
+- [Awesome Autism Tech](https://github.com/hbcondo/awesome-autism-tech) -- When you search for "Awesome Autism" on GitHub, this is the second repo that comes up.  An interesting list of "... technologies related to Autism Spectrum Disorder".
+- [awesome-autism-movies-tv](https://github.com/aspergirl-git/awesome-autism-movies-tv) -- This comes up as the third repo on GitHub, and also from @aspergergirl-git.  An interesting short list of movies and TV shows where one or more of the characters is on the spectrum.
+- [awesome-autism](https://github.com/all-the-data/awesome-autism) -- an interesting list of some actors and actresses that are confirmed to be on the spectrum.

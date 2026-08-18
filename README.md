@@ -44,6 +44,7 @@ I know there are other "awesome autism" resources out there, and I will be linki
 
 ## :link: Other Awesome Autism resources
 
+- [Masked But Aware](https://www.maskedbutaware.nl/en/) -- Practical information and browser-based tools for autistic and neurodivergent adults, including workplace and overload support.
 - [Awesome Autism](https://github.com/aspergirl-git/awesome-autism/) -- When I first searched for "Awesome Autism Resources", I didn't find any of the normal "awesome" repos on github.  But then I wasn't searching on Github.  When I repeated that search on github, this was the first repo that was returned.  And I've learned how to do better GitHub Formatted Markup from her example.  So, thank you to @aspergergirl-git!
 - [Awesome Autism Tech](https://github.com/hbcondo/awesome-autism-tech) -- When you search for "Awesome Autism" on GitHub, this is the second repo that comes up.  An interesting list of "... technologies related to Autism Spectrum Disorder".
 - [awesome-autism-movies-tv](https://github.com/aspergirl-git/awesome-autism-movies-tv) -- This comes up as the third repo on GitHub, and also from @aspergergirl-git.  An interesting short list of movies and TV shows where one or more of the characters is on the spectrum.
